@@ -23,6 +23,6 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 ![git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=E83A2D)
 ![NODE](https://img.shields.io/badge/NODE-101010?style=for-the-badge&logo=node.js&logoColor=white&labelColor=91C441)
 ![php](https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=white&labelColor=878DB8)
-![sql](https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=white&labelColor=878DB8)
+![sql](https://img.shields.io/badge/sql-101010?style=for-the-badge&logo=sql&logoColor=white&labelColor=878DB8)
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
