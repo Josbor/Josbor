@@ -26,3 +26,9 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 ![sql](https://img.shields.io/badge/sql-101010?style=for-the-badge&logo=sql&logoColor=white&labelColor=878DB8)
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
+
+## Contact & support:
+
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josbor.dev@gmail.com)
+</br>
+
