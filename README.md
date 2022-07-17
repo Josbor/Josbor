@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/REACT-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/HTML5-fc490b?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010"/>
 <img src="https://img.shields.io/badge/CSS3-2465f1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010"/>
+## Skills:
 And more...
