@@ -29,13 +29,13 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 
 ## Some Projects:
 
-<table align="center" >
-  <tr  border= "1px solid black" >
+<table  border= "0" align="center" >
+  <tr >
     <td width="400" align="middle">
-	<a href="https://github.com/Josbor/Control-gastos">
+	<a href="https://github.com/Josbor/citas_react">
   		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
 	</a>
-	<a href="https://citasveterinariofinal.netlify.app/">
+	<a href="https://github.com/Josbor/citas_react">
   		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
     <a href="https://citasveterinariofinal.netlify.app/">
@@ -43,7 +43,7 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 	</a>
     </td>
     <td width="400" align="middle">
-	<a href="https://github.com/Josbor/citas_react">
+	<a href="https://github.com/Josbor/Control-gastos">
   		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
 	</a>
 	<a href="https://github.com/Josbor/Control-gastos">
