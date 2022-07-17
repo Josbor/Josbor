@@ -31,7 +31,7 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 
 <table  border= "0" align="center" >
   <tr >
-    <td width="400" align="middle">
+    <td  align="middle">
 	<a href="https://github.com/Josbor/citas_react">
   		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
 	</a>
@@ -42,7 +42,7 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
   		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
     </td>
-    <td width="400" align="middle">
+    <td align="middle">
 	<a href="https://github.com/Josbor/Control-gastos">
   		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
 	</a>
