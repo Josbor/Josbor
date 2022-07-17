@@ -1,5 +1,6 @@
 ### Hi there 👋, I am Jose Borrego a Front-end Developer
 <img src="https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png?raw=true"/>
+<br/>
 <!--
 **Josbor/Josbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
