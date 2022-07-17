@@ -27,6 +27,35 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
 
+## Some Projects:
+
+<table width="60%" >
+  <tr>
+    <td align="middle">
+	<a href="https://github.com/Josbor/Control-gastos">
+  		<img " src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
+	</a>
+	<a href="https://citasveterinariofinal.netlify.app/">
+  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
+	</a>
+    <a href="https://citasveterinariofinal.netlify.app/">
+  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+	</a>
+    </td>
+    <td>
+	<a href="https://github.com/Josbor/citas_react">
+  		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
+	</a>
+		<a href="https://citasveterinariofinal.netlify.app/">
+  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+    </td>
+    
+  </tr>
+ 
+   
+</table>
+
+
 ## Contact & support:
 
 [![Email](https://img.shields.io/badge/josbor.dev@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josbor.dev@gmail.com)
