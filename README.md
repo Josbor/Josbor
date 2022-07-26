@@ -61,12 +61,12 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
    
 </table>
 
-<!--
+
 ## Contact & support:
 
 [![Email](https://img.shields.io/badge/josbor.dev@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josbor.dev@gmail.com)
-[![Email](https://img.shields.io/badge/josbor.dev@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](api.whatsapp.com/send?phone=593958649632)
+[![whatsapp](https://img.shields.io/badge/josbor.dev@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](api.whatsapp.com/send?phone=593958649632)
 </br>
--->
+
 	
     
