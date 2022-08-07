@@ -16,6 +16,7 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 -->
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=101010&labelColor=F0DB4F)
 ![React](https://img.shields.io/badge/REACT-101010?style=for-the-badge&logo=react&logoColor=101010&labelColor=00d8ff)
+![Angular](https://img.shields.io/badge/ANGULAR-101010?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![REDUX](https://img.shields.io/badge/REDUX-101010?style=for-the-badge&logo=redux&logoColor=white&labelColor=7248B5)
 
 ![Htlm](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=fc490b)
