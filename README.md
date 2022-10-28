@@ -4,7 +4,12 @@
 ## About Me:
 I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in the what I have knowledges on multtliples develop languages and various aspect of the area. I'm apassionate of the constant growing and ever I'm disposed to lear much more. I'm supportive of the saying " if I don't know about something , so I learn it", that make me a autodidacte on any sector that me focus it ever improve the abbilities for to make a work of high quality and efficience. My profile is focus in the design and Programmation (Developing) trying of maintain a equilibrie on both ambits.I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in the what I have knowledges on multtliples develop languages and various aspect of the area. I'm apassionate of the constant growing and ever I'm disposed to lear much more. I'm supportive of the saying " if I don't know about something , so I learn it", that make me a autodidacte on any sector that me focus it ever improve the abbilities for to make a work of high quality and efficience. My profile is focus in the design and Programmation (Developing) trying of maintain a equilibrie on both ambits.
 
-## Skills:
+## Technical Skills:
+
+### Languages
+![javascript](https://img.shields.io/badge/JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=101010&labelColor=F0DB4F)
+![php](https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=white&labelColor=878DB8)
+![sql](https://img.shields.io/badge/sql-101010?style=for-the-badge&logo=sql&logoColor=white&labelColor=878DB8)
 <!--
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![React](https://img.shields.io/badge/REACT-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)
@@ -14,7 +19,7 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 ![git](https://img.shields.io/badge/GIT-E83A2D?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![php](https://img.shields.io/badge/PHP-878DB8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
 -->
-![javascript](https://img.shields.io/badge/JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=101010&labelColor=F0DB4F)
+`### Frameworks/Libraries
 ![React](https://img.shields.io/badge/REACT-101010?style=for-the-badge&logo=react&logoColor=101010&labelColor=00d8ff)
 ![Angular](https://img.shields.io/badge/ANGULAR-101010?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![REDUX](https://img.shields.io/badge/REDUX-101010?style=for-the-badge&logo=redux&logoColor=white&labelColor=7248B5)
@@ -25,8 +30,8 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 
 ![git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=E83A2D)
 ![NODE](https://img.shields.io/badge/NODE-101010?style=for-the-badge&logo=node.js&logoColor=white&labelColor=91C441)
-![php](https://img.shields.io/badge/PHP-101010?style=for-the-badge&logo=php&logoColor=white&labelColor=878DB8)
-![sql](https://img.shields.io/badge/sql-101010?style=for-the-badge&logo=sql&logoColor=white&labelColor=878DB8)
+
+
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
 
