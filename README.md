@@ -24,18 +24,17 @@ I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in t
 ![React](https://img.shields.io/badge/REACT-101010?style=for-the-badge&logo=react&logoColor=101010&labelColor=00d8ff)
 ![Angular](https://img.shields.io/badge/ANGULAR-101010?style=for-the-badge&logo=angular&logoColor=white&labelColor=red)
 ![REDUX](https://img.shields.io/badge/REDUX-101010?style=for-the-badge&logo=redux&logoColor=white&labelColor=7248B5)
-
-![Htlm](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=fc490b)
-![Css](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=white&labelColor=2465f1)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=36B7F0)
-
-![git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=E83A2D)
 ![NODE](https://img.shields.io/badge/NODE-101010?style=for-the-badge&logo=node.js&logoColor=white&labelColor=91C441)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-101010?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=36B7F0)
+![Rxjs](https://img.shields.io/badge/RxJs-101010?style=for-the-badge&logo=rxjs&logoColor=white&labelColor=fc490b)
 
+### Tools
+![git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=white&labelColor=E83A2D)
+![Css](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=white&labelColor=2465f1)
+![HTML](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=white&labelColor=orange)
 
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
-
 ## Some Projects:
 
 <table  border= "0" align="center" >
