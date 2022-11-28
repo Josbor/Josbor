@@ -2,7 +2,8 @@
 [![Cover](https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png)](https://github.com/Josbor)
 
 ## About Me:
-I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in the what I have knowledges on multtliples develop languages and various aspect of the area. I'm apassionate of the constant growing and ever I'm disposed to lear much more. I'm supportive of the saying " if I don't know about something , so I learn it", that make me a autodidacte on any sector that me focus it ever improve the abbilities for to make a work of high quality and efficience. My profile is focus in the design and Programmation (Developing) trying of maintain a equilibrie on both ambits.I'm Jose Alberto Borrego a graduate in the profession of ingeneering system in the what I have knowledges on multtliples develop languages and various aspect of the area. I'm apassionate of the constant growing and ever I'm disposed to lear much more. I'm supportive of the saying " if I don't know about something , so I learn it", that make me a autodidacte on any sector that me focus it ever improve the abbilities for to make a work of high quality and efficience. My profile is focus in the design and Programmation (Developing) trying of maintain a equilibrie on both ambits.
+Soy Desarrollador FrontEnd con 2 años de experiencia con dominio en React Y angular.Base de datos sql server y en Php y Nodejs. enfocado al desarrollo visual y dinámico para soluciones efectivas. Habilidades de ilustrador y conocimientos de diseño, añadiendo estas nociones a mi código. Soy una persona con voluntad
+y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecnológicas. Soy alguien en constante crecimiento y expansión de sus habilidades y conocimientos . Enfocado en la resolución de problemas de experiencia de usuario.
 
 ## Technical Skills:
 
