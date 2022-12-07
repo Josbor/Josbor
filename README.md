@@ -62,8 +62,9 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
   		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
     </td>
-    <!-- Second row -->
+ 
   </tr>
+	   <!-- Second row -->
     <tr >
     <td  align="middle">
 	<a href="https://github.com/Josbor/citas_react">
@@ -89,9 +90,9 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
     </td>
     
   </tr>
-  
-    <!-- third row -->
-      <tr >
+	
+<!-- Third row -->
+    <tr >
     <td  align="middle">
 	<a href="https://github.com/Josbor/citas_react">
   		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
