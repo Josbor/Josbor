@@ -67,24 +67,24 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 	   <!-- Second row -->
 	  <tr >
     <td  align="middle">
-	<a href="https://github.com/Josbor/citas_react">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
+	<a href="https://muebles-shop.netlify.app">
+  		<img src="https://github.com/Josbor/Josbor/blob/main/Screenshot_23.png">
 	</a>
-	<a href="https://github.com/Josbor/citas_react">
+	<a href="https://github.com/Josbor/tienda-muebles">
   		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
-    <a href="https://citasveterinariofinal.netlify.app/">
+  	 <a href="https://muebles-shop.netlify.app">
   		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
     </td>
     <td align="middle">
-	<a href="https://github.com/Josbor/Control-gastos">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
+	<a href="https://product-list-cpanax.netlify.app/">
+  		<img  src="https://github.com/Josbor/Josbor/blob/main/Screenshot_24.png">
 	</a>
-	<a href="https://github.com/Josbor/Control-gastos">
+	<a href="https://github.com/Josbor/product-list">
   		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
-    <a href="https://administracion-gastos.netlify.app">
+    <a href="https://product-list-cpanax.netlify.app/">
   		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
     </td>
@@ -108,7 +108,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 	<a href="https://pokemon-dex-app.netlify.app/">
   		<img  src="https://github.com/Josbor/Josbor/blob/main/Screenshot_25.png">
 	</a>
-	<a href="https://github.com/Josbor/Control-gastos">
+	<a href="https://github.com/Josbor/pokedex-app">
   		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
   	<a href="https://pokemon-dex-app.netlify.app/">
