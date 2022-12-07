@@ -106,7 +106,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
     </td>
     <td align="middle">
 	<a href="https://pokemon-dex-app.netlify.app/">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/Screenshot_25.png">
+  		<img  src="https://github.com/Josbor/Josbor/blob/main/pokedex-app.png">
 	</a>
 	<a href="https://github.com/Josbor/pokedex-app">
   		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
