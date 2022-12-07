@@ -68,7 +68,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 	  <tr >
     <td  align="middle">
 	<a href="https://muebles-shop.netlify.app">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/Screenshot_23.png">
+  		<img src="https://github.com/Josbor/Josbor/blob/main/tienda-muebles.png">
 	</a>
 	<a href="https://github.com/Josbor/tienda-muebles">
   		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
@@ -79,7 +79,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
     </td>
     <td align="middle">
 	<a href="https://product-list-cpanax.netlify.app/">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/Screenshot_24.png">
+  		<img  src="https://github.com/Josbor/Josbor/blob/main/product-list.png">
 	</a>
 	<a href="https://github.com/Josbor/product-list">
   		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
