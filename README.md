@@ -66,7 +66,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
     </td>
  
   </tr>
-  </tr>
+
 	   <!-- third row -->
 	  <tr >
     <td  align="middle">
