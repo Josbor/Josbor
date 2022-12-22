@@ -40,8 +40,8 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 
 <table  border= "0" align="center" >
   
-	   <!-- Second row -->
-  <tr>
+
+ <tr>
     <td  align="middle">
 	<a href="https://muebles-shop.netlify.app">
   		<img src="https://github.com/Josbor/Josbor/blob/main/tienda-muebles.png">
@@ -64,8 +64,8 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
   		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
     </td>
-   </tr>
-
+</tr>
+</tr>
 	   <!-- third row -->
 	  <tr>
    	 <td  align="middle">
