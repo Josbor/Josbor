@@ -39,31 +39,7 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 ## Some Projects:
 
 <table  border= "0" align="center" >
-  <tr >
-    <td  align="middle">
-	<a href="https://github.com/Josbor/citas_react">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
-	</a>
-	<a href="https://github.com/Josbor/citas_react">
-  		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://citasveterinariofinal.netlify.app/">
-  		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
-    <td align="middle">
-	<a href="https://github.com/Josbor/Control-gastos">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
-	</a>
-	<a href="https://github.com/Josbor/Control-gastos">
-  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://administracion-gastos.netlify.app">
-  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
- 
-  </tr>
+  
 	   <!-- Second row -->
 	  <tr >
     <td  align="middle">
@@ -117,7 +93,31 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
     </td>
  
   </tr>
-
+<tr >
+    <td  align="middle">
+	<a href="https://github.com/Josbor/citas_react">
+  		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
+	</a>
+	<a href="https://github.com/Josbor/citas_react">
+  		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
+	</a>
+    <a href="https://citasveterinariofinal.netlify.app/">
+  		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+	</a>
+    </td>
+    <td align="middle">
+	<a href="https://github.com/Josbor/Control-gastos">
+  		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
+	</a>
+	<a href="https://github.com/Josbor/Control-gastos">
+  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
+	</a>
+    <a href="https://administracion-gastos.netlify.app">
+  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+	</a>
+    </td>
+ 
+  </tr>
 </table>
 
 <!--
