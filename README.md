@@ -36,86 +36,35 @@ y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecn
 
 
 ![sql](https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-101010?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E97E8)
-## Some Projects:
+## PORTFOLIO:
 
 <table  border= "0" align="center" >
   
 
  <tr>
-    <td  align="middle">
-	<a href="https://muebles-shop.netlify.app">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/tienda-muebles.png">
-	</a>
-	<a href="https://github.com/Josbor/tienda-muebles">
-  		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-  	 <a href="https://muebles-shop.netlify.app">
-  		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-	badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
     <td align="middle">
 	<a href="https://product-list-cpanax.netlify.app/">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/product-list.png">
-	</a>
-	<a href="https://github.com/Josbor/product-list">
-  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://product-list-cpanax.netlify.app/">
-  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+  		<img  width="500" height="300" src="https://github.com/Josbor/Josbor/blob/main/product-list.png">
 	</a>
     </td>
 </tr>
-</tr>
-	   <!-- third row -->
-	  <tr>
-   	 <td  align="middle">
-	<a href="https://cripto-consulta.netlify.app/">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/cripto.png">
-	</a>
-	<a href="https://github.com/Josbor/cripto-react">
-  		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://cripto-consulta.netlify.app/">
-  		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
-    <td align="middle">
-	<a href="https://pokemon-dex-app.netlify.app/">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/pokedex-app.png">
-	</a>
-	<a href="https://github.com/Josbor/pokedex-app">
-  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-  	<a href="https://pokemon-dex-app.netlify.app/">
-  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
-  	 </tr>
 <tr>
-    <td  align="middle">
-	<a href="https://github.com/Josbor/citas_react">
-  		<img src="https://github.com/Josbor/Josbor/blob/main/veterinary.png">
+	<td align="middle">
+		<a href="https://github.com/Josbor/product-list">
+  		<img src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
-	<a href="https://github.com/Josbor/citas_react">
-  		<img  src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://citasveterinariofinal.netlify.app/">
+  	</td>
+</tr>
+<tr>
+	<td align="middle">
+	   <a href="https://product-list-cpanax.netlify.app/">
   		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
-    </td>
-    <td align="middle">
-	<a href="https://github.com/Josbor/Control-gastos">
-  		<img  src="https://github.com/Josbor/Josbor/blob/main/presupuesto%202.png">
-	</a>
-	<a href="https://github.com/Josbor/Control-gastos">
-  		<img " src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
-	</a>
-    <a href="https://administracion-gastos.netlify.app">
-  		<img " src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
-	</a>
-    </td>
- 
-  </tr>
+	</td>
+</tr>
+
+	
+
 </table>
 
 <!--
