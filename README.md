@@ -2,8 +2,7 @@
 [![Cover](https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png)](https://github.com/Josbor)
 
 ## About Me:
-Soy Desarrollador FrontEnd con 2 años de experiencia con dominio en React Y angular.Base de datos sql server y en Php y Nodejs. enfocado al desarrollo visual y dinámico para soluciones efectivas. Habilidades de ilustrador y conocimientos de diseño, añadiendo estas nociones a mi código. Soy una persona con voluntad
-y persistencia ante los retos, dispuesto a explorar diferentes alternativas tecnológicas. Soy alguien en constante crecimiento y expansión de sus habilidades y conocimientos . Enfocado en la resolución de problemas de experiencia de usuario.
+I am a developer with almost two years of experience in software development, being passionate about frontend with expertise in frameworks and libraries such as React and Angular. I also have knowledge and proficiency in backend development with PHP, Node.js, and SQL Server for databases. My focus is on the visual and dynamic development of solutions. Additionally, I possess skills as an illustrator and knowledge in design, which I integrate into my work as a developer.
 
 ## Technical Skills:
 
