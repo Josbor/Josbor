@@ -1,10 +1,10 @@
-### Hi there 👋, I am Jose Borrego a Front-end Developer
+# Hi there 👋, I am Jose Borrego a Front-end Developer
 [![Cover](https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png)](https://github.com/Josbor)
 
-## About Me:
-I am a developer with almost two years of experience in software development, being passionate about frontend with expertise in frameworks and libraries such as React and Angular. I also have knowledge and proficiency in backend development with PHP, Node.js, and SQL Server for databases. My focus is on the visual and dynamic development of solutions. Additionally, I possess skills as an illustrator and knowledge in design, which I integrate into my work as a developer.
+# About Me:
+### I am a developer with almost two years of experience in software development, being passionate about frontend with expertise in frameworks and libraries such as React and  Angular. I also have knowledge and proficiency in backend development with PHP, Node.js, and SQL Server for databases. My focus is on the visual and dynamic development of solutions. Additionally, I possess skills as an illustrator and knowledge in design, which I integrate into my work as a developer.
 
-## Technical Skills:
+# Technical Skills:
 
 ### Languages
 ![javascript](https://img.shields.io/badge/JAVASCRIPT-101010?style=for-the-badge&logo=javascript&logoColor=101010&labelColor=F0DB4F)
