@@ -2,7 +2,7 @@
 [![Cover](https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png)](https://github.com/Josbor)
 
 # About Me:
-###🚀 Frontend Developer | React & Angular Specialist | AI & Web Performance
+### 🚀Frontend Developer | React & Angular Specialist | AI & Web Performance
 
 Hi! I’m José Borrego, a passionate developer focused on building scalable, user-centric solutions. My code merges creativity with performance, leveraging modern tools to solve real-world challenges.
 
