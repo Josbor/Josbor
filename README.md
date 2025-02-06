@@ -2,7 +2,23 @@
 [![Cover](https://github.com/Josbor/Josbor/blob/main/wepik-cover-para-github-2022616-202029.png)](https://github.com/Josbor)
 
 # About Me:
-### I am a developer with almost two years of experience in software development, being passionate about frontend with expertise in frameworks and libraries such as React and  Angular. I also have knowledge and proficiency in backend development with PHP, Node.js, and SQL Server for databases. My focus is on the visual and dynamic development of solutions. Additionally, I possess skills as an illustrator and knowledge in design, which I integrate into my work as a developer.
+###🚀 Frontend Developer | React & Angular Specialist | AI & Web Performance
+
+Hi! I’m José Borrego, a passionate developer focused on building scalable, user-centric solutions. My code merges creativity with performance, leveraging modern tools to solve real-world challenges.
+
+✨ What I bring to the table:
+
+Expertise: React, Angular, TypeScript, Node.js, Tailwind CSS, Firebase.
+
+Innovation: Integrated AI-driven APIs (ChatGPT, Botpress), modernized legacy systems, and automated workflows.
+
+Results: Boosted web speed by 35% (lazy loading), reduced ERP errors by 20%, and built dynamic ERP modules.
+
+Full-Stack Fluency: PHP, SQL, and RESTful API design for end-to-end solutions.
+
+🌍 Collaboration: Thrived in remote, cross-cultural teams (Mexico, Ecuador). Advocate for clean code, Agile practices, and intuitive UI/UX.
+
+🔍 Explore my repos for projects blending cutting-edge tech with practicality. Let’s connect to build something impactful!
 
 # Technical Skills:
 
