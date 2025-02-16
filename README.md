@@ -56,24 +56,25 @@ Full-Stack Fluency: PHP, SQL, and RESTful API design for end-to-end solutions.
 <table  border= "0" align="center" >
   
 
+<!--  
  <tr>
-    <td align="middle">
+	 <td align="middle">
 	<a href="https://jose-borrego.netlify.app/ ">
   		<img  width="500" height="300" src="https://github.com/Josbor/Josbor/blob/main/project-2.jpeg?raw=true">
 	</a>
-    </td>
-</tr>
-<!-- <tr>
+    </td> 
+</tr>-->
+<tr>
 	<td align="middle">
 		<a href="https://github.com/Josbor/portfolio">
   		<img src="https://img.shields.io/badge/Github-Click_Here_for_Repository-D74A34?style=for-the-badge&logo=Github&logoColor=D74A34&labelColor=101010">
 	</a>
   	</td>
-</tr> -->
+</tr>
 <tr>
 	<td align="middle">
 	   <a href="https://jose-borrego-dev.vercel.app/">
-  		<img src="https://img.shields.io/badge/Netlify-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
+  		<img src="https://img.shields.io/badge/Vercel-Click_Here_for_Deployed_Project-5CEBDF?style=for-the-badge&logo=netlify&logoColor=5CEBDF&labelColor=101010">
 	</a>
 	</td>
 </tr>
